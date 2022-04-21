@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+}
+#lamp{
+    width: 450px;
+    height: 490px;
+}
+#ali{
+    height: 10px;
+    width: 300px;
+    display: flex;
+}
+#l{
+    padding: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 450px;
+    height: 490px;
+    border: 4px solid rgb(7, 6, 61);
+    border-radius: 100px;
+}
+#corzinha{
+    height: 100vh;
+    width: 100px;
+}
+button{
+    width: 100px;
+    height: 109.3px;
+    background-color: rgb(10, 10, 70);
+    border: 1px solid black;
+    color: white;
+}
+
+#back{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    
+}
+#power{
+    margin-top:  219px;
+    height: 218.2px;
+    width: 200px;
+    background-color: rgb(10, 10, 70);
+    border-color: black;
+    color: white;
+}
+#power:hover{
+    background-color: rgb(19, 19, 146);
+}
+#vermelho:hover{
+    background-color: darkred;
+}
+#verde:hover{
+    background-color: darkgreen;
+}
+#azul:hover{
+    background-color: darkblue;
+}
+#branco:hover{
+    background-color: lightgray;
+    color: black;
+}
+#amarelo:hover{
+    background-color: rgb(190, 190, 2);
+}
+#laranja:hover{
+    background-color: darkorange;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
